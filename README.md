@@ -17,6 +17,8 @@ change working directoy
  cd image_segmentation_using_opencv/
 ```
 
+I'm using python 3.7.9 for this project
+
 Install all requirements
 ```
 pip install -r requirements.txt
